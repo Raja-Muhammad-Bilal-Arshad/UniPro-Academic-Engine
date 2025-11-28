@@ -91,7 +91,7 @@ We have integrated industry-leading paid APIs to ensure safety and quality:
     *   Stealth (AI Detection).
     *   QuillBot (Paraphrasing).
 *   **Architecture**: Modular Component System with Real-time State Management.
-
+ 
 ## 🔮 Future Roadmap
 
 *   **Real-time IDE**: Integrating a live code editor (Monaco) directly into the Code Window.

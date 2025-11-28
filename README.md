@@ -1,4 +1,4 @@
-**UniPro: The Market-Level Academic Intelligence Engine**
+***UniPro: The Market-Level Academic Intelligence Engine**
 
 **Architecture Powered by Google Gemini Pro | Integrated with Turnitin, QuillBot & Stealth AI**
 

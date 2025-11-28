@@ -68,7 +68,7 @@ We have integrated industry-leading paid APIs to ensure safety and quality:
 *   **Intelligence**: Smartly detects code blocks within text files, repairs broken lines, and reconstructs tables for platforms like Obsidian/GitHub.
 
   **Project Structure
-  
+  ```python
   UniPro Overview
 ├── Overview
 ├── Evaluation Criteria Alignment
@@ -81,7 +81,7 @@ We have integrated industry-leading paid APIs to ensure safety and quality:
 │   └── Markdown Converter (File → .md)
 ├── Technology Stack
 └── Future Roadmap
-
+  ```
 ## 🛠️ Technology Stack
 
 *   **AI Core**: Google Gemini Pro API (via Google AI Studio).

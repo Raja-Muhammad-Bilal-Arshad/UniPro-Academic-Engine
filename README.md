@@ -84,7 +84,7 @@ We have integrated industry-leading paid APIs to ensure safety and quality:
   ```
 ## 🛠️ Technology Stack
 
-*   **AI Core**: Google Gemini Pro API (via Google AI Studio).
+*   **AI Core**: Google Gemini Pro API.
 *   **Frontend**: React.js + Tailwind CSS + Lucide Icons.
 *   **Integrations**:
     *   Turnitin (Plagiarism).

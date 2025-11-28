@@ -1,8 +1,8 @@
 **🎓 UniPro: The Market-Level Academic Intelligence Engine**
 
-**Award-Winning Architecture | Powered by Google Gemini Pro | Integrated with Turnitin, QuillBot & Stealth AI**
+**Architecture Powered by Google Gemini Pro | Integrated with Turnitin, QuillBot & Stealth AI**
 
-## 🚀 Overview
+## Overview:
 
 UniPro is a market-leading academic platform designed for university students, featuring specialized modules for Assignments, Projects, Theses, and automated Research Paper organization.
 
@@ -67,6 +67,21 @@ We have integrated industry-leading paid APIs to ensure safety and quality:
 *   **Solution**: Transforms rigid PDFs into clean, editable Markdown.
 *   **Intelligence**: Smartly detects code blocks within text files, repairs broken lines, and reconstructs tables for platforms like Obsidian/GitHub.
 
+  **Project Structure
+  
+  UniPro Overview
+├── Overview
+├── Evaluation Criteria Alignment
+├── Core Modules
+│   ├── Assignment Generator
+│   ├── Project Architect
+│   ├── Thesis Navigator
+│   ├── Academic Integrity Suite (Premium APIs)
+│   ├── Research Paper Organizer (PDF → LaTeX)
+│   └── Markdown Converter (File → .md)
+├── Technology Stack
+└── Future Roadmap
+
 ## 🛠️ Technology Stack
 
 *   **AI Core**: Google Gemini Pro API (via Google AI Studio).
@@ -84,3 +99,5 @@ We have integrated industry-leading paid APIs to ensure safety and quality:
 *   **Canvas Integration**: Direct submission to University LMS platforms.
 
 _Built with ❤️ for University Students worldwide.
+
+
